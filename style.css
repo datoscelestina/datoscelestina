@@ -20,9 +20,11 @@ body {
 .card-title {
    color:teal;
    font-style: bold;
+   font-size: 48px;
 }
 .card-text {
    color:tomato;
+   font-size: 40px;
 }
 .homecontent {
     
@@ -41,29 +43,6 @@ body {
       overflow: auto;
 
    }
-
-
-.chapterbutton {
-    text-decoration: none;
-}
-
-.chaptertext {
-    color: #D31027;
-    margin-right:auto;
-    width: 100%;
-    text-align:left;
-    font-family: 'Concert One', cursive;
-}
-.chaptergradient {
-    background: #0F2027;  /* fallback for old browsers */
-    
-}
-
-.chaptergradient:hover {
-    transform: scale(1.01);
-    background: rgb(0, 0, 0);  /* fallback for old browsers */
-
-}
 
 .accordion-button {
     
